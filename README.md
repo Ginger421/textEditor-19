@@ -20,11 +20,11 @@ Image of the deployed application
 1. Clone the code 2. run npm i to install the dependencies 3. run npm run build to compile the app 4. run npm run start and open localhost:300 your browser 
 
 ##License
-https://opensource.org/licenses/MIT
+(https://user-images.githubusercontent.com/101539821/195421205-75d9058a-9528-4224-8a53-491b47f330e9.png)
 
 ##Testing
 No testing was done on the application
 
 ##Contact
-Email: vlparker@g.cofc.edu
+Email: gingerowen0421@gmail.com
 GitHub:https://github.com/Ginger421
