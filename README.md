@@ -2,7 +2,7 @@
 
 
 ## Description
-This is a single page application text editor. The application is designed to allow developers to use a text editor both online and offline.
+This is a single page application that functions as a text editor. textEditor-19 is a Progressive Web Application. This means several things: 1) The application can be installed so users can use it both online and offline. 2) textEditor-19 has the look and feel of a mobile app while running on a web browser and is responsive on smaller screens. 3) The application generates a Manifest file in JSON format that includes information about the app like the name, icons and background color. 
 
 ##Deployed App
 
@@ -23,7 +23,7 @@ Image of the deployed application
 ![image](https://user-images.githubusercontent.com/101539821/193658645-34630bc3-c167-4817-bf40-3dee37e8506e.png)
 
 ##Usage
-Visit the deployed site. To use online start typing code in the text area. Down load to use offline.
+Visit the deployed site. To use the online start typing code in the text area. Or, Download to use offline.
 
 ##License
 (https://user-images.githubusercontent.com/101539821/195421205-75d9058a-9528-4224-8a53-491b47f330e9.png)
