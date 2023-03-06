@@ -18,9 +18,16 @@ https://github.com/Ginger421/textEditor-19
 * [Questions](#questions)
 
 Image of the deployed application
+
 ![image](https://user-images.githubusercontent.com/101539821/193646755-b632ffcf-1f37-4e46-af59-3305f0078824.png)
 
+Image of the Manifest file in the browser
+
 ![image](https://user-images.githubusercontent.com/101539821/193658645-34630bc3-c167-4817-bf40-3dee37e8506e.png)
+
+Image of the Manifest file in VSCode
+
+![image](https://user-images.githubusercontent.com/101539821/223192474-f5c60d74-8899-4f11-97f7-9ba73f4e9792.png)
 
 ##Usage
 <br>
@@ -28,7 +35,7 @@ Visit the deployed site. To use the online start typing code in the text area. O
 
 ##License
 <br>
-(https://user-images.githubusercontent.com/101539821/195421205-75d9058a-9528-4224-8a53-491b47f330e9.png)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ##Testing
 <br>
