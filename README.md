@@ -23,12 +23,15 @@ Image of the deployed application
 ![image](https://user-images.githubusercontent.com/101539821/193658645-34630bc3-c167-4817-bf40-3dee37e8506e.png)
 
 ##Usage
+<br>
 Visit the deployed site. To use the online start typing code in the text area. Or, Download to use offline.
 
 ##License
+<br>
 (https://user-images.githubusercontent.com/101539821/195421205-75d9058a-9528-4224-8a53-491b47f330e9.png)
 
 ##Testing
+<br>
 No testing was done on the application
 
 ##Contact
