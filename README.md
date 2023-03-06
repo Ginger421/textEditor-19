@@ -36,7 +36,6 @@ Image of the Manifest file in VSCode
 Visit the deployed site. To use the online start typing code in the text area. Or, click install to use offline.
 
 ## License
-<br>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Testing
